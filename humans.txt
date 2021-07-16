@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Nagy Norbert email twitter etc
 
 # THANKS
 
